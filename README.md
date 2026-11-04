@@ -122,7 +122,10 @@ If no supported package manager is detected, the script displays a message askin
 
 ## Setup
 
-1. Download or clone the repository.
+1. Download or clone the repository
+```bash
+ git clone https://github.com/yo196han/git-cli-contol-panel.git
+   ```
 2. Keep the script and environment file in the same directory.
 3. Copy `env-template.txt` to a file named `.env`.
 4. Edit `.env` and add your GitHub username and personal access token:
