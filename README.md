@@ -8,7 +8,7 @@ A menu-driven command-line tool for managing local Git projects and GitHub repos
 The repository provides two platform-specific scripts:
 
 - `git-cli-control-panel-by-y0h4n.bat` — Windows
-- `git-cli-control-panel-by-y0h4n-package-detect.sh` — Linux / Bash (updated package-manager detection version)
+- `git-cli-control-panel-by-y0h4n.sh` — Linux / Bash (updated package-manager detection version)
 
 ## Features
 
