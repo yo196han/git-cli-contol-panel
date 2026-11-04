@@ -1,0 +1,2 @@
+GITHUB_TOKEN=<your-personal-access-token>
+GITHUB_USERNAME=<your-github-username>
